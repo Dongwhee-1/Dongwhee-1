@@ -1,16 +1,25 @@
-### Hi there 👋
+# KimDongwhee
+Hi there! Welcome to my Github!<br>
+I am a student studying agricultural economics & rural development.<br>
 
-<!--
-**Dongwhee-1/Dongwhee-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- Seoul National University, Agricultural Economics & Rural Development, 3rd Year
 
-Here are some ideas to get you started:
+## 📫 How to reach me
+<a href="mailto:kevin98124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/wheeee._.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://blog.naver.com/fealacsupporters" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🔭 I’m currently working on ...
+ - Consulting project of academic club, SNU ACT
+ - Data Structure & Algorithms
+ 
+## 🔥 Experience
+- KATUSA, 2ID HHBN G9 [19.02 - 20.09] 
+
+## 🏆 Awards
+- The Best Buddy of 2021S SNU Buddy
+## 🛠 Skills
+   <p>
+       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+      </p>
