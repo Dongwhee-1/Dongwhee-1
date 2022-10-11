@@ -8,11 +8,9 @@ I am a student studying agricultural economics & rural development.<br>
 ## 📫 How to reach me
 <a href="mailto:kevin98124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/wheeee._.k/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://blog.naver.com/fealacsupporters" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
 
  ## 🔭 I’m currently working on ...
- - Consulting project of academic club, SNU ACT
- - Data Structure & Algorithms
+ - TONS OF ASSIGNMENTS!!
  
 ## 🔥 Experience
 - KATUSA, 2ID HHBN G9 [19.02 - 20.09] 
